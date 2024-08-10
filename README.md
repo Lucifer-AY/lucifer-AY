@@ -54,6 +54,3 @@
 
 
 </div>
-
-
-[![Shadab's GitHub stats](https://stats.quine.sh/lucifer-AY/github)]
