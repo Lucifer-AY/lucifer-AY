@@ -56,4 +56,4 @@
 </div>
 
 
-[![Shadab's GitHub stats](https://stats.quine.sh/Shadab/github)](https://quine.sh/profile/Shadab)
+[![Shadab's GitHub stats](https://stats.quine.sh/lucifer-AY/github)]
