@@ -8,9 +8,9 @@
 --->
 
 <h3 align="center">
-	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm Anurag Yadav!</a>
+	<a>Hi, I'm Anurag Yadav!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/sazamansari/sazamansari/"> </a>
+</h3> <a href="https://github.com/Lucifer-AY"> </a>
 <br/>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ---
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
-<h3>I'm a Student.</h3>
+<h3>I'm a Student Anurag Yadav.</h3>
 
 - 🎓 I am pursuing My Bachelors in **Computer Science** from **Rungta College of Engineering and Technology**. <br>
-- 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
-- 💬 I would love to talk React.js and Web Development.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Programming.
+- 💬 I would love to talk about AI/ML .
 - 💞️ I’m looking to collaborate on any open source platform.
 - 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **Python**. <br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
